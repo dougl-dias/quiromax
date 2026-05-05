@@ -77,8 +77,9 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
-      "@prisma/engines",
       "prisma",
+      "@prisma/client",
+      "@prisma/engines",
       "sharp"
     ]
   }
